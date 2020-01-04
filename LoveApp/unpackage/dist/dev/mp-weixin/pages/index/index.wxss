@@ -1,0 +1,33 @@
+.content {
+  padding: 0 40rpx;
+}
+.content image {
+  width: 100%;
+}
+.content .title {
+  display: block;
+  text-align: center;
+  font-size: 40rpx;
+  font-weight: bold;
+  font-family: STKaiti;
+}
+.content .operate {
+  text-align: center;
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+}
+.content .operate .btn {
+  width: 200rpx;
+  height: 80rpx;
+  display: inline-block;
+}
+.content .operate .btn:first-of-type {
+  margin-right: 40rpx;
+}
+.content .message {
+  font-size: 34rpx;
+  margin: 15rpx 0;
+  color: #333;
+  font-family: Arial STKaiti;
+}
+
